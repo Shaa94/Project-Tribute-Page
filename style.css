@@ -1,0 +1,58 @@
+body {
+    background-color: #F8D9D1;
+    text-align: center;
+}
+
+#title{
+  text-align: center;
+  color: #ed462f;
+}
+
+#intro{
+   font-size: 20px; 
+}
+
+#img-div {
+    background: #F8D9D1;
+    padding: 10px;
+    margin: 0;
+}
+
+#image{
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption{
+    font-style: italic;
+}
+
+#tribute-info p{
+text-align: center;
+}
+
+ol li{
+    color: #ed462f;
+    list-style-position: inside;
+}
+
+ol li p{
+  text-align: justify;
+}
+
+::marker {
+    font-variant-numeric: tabular-nums;
+    color: #ed462f;
+}
+
+a:hover {
+  color: #ed462f;
+}
+
+footer{
+    margin-top: 50px;
+    font-size: 15px;
+}
+
